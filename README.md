@@ -1,7 +1,21 @@
-# Hi, I'm Shivesh Kumar 👋
+<h1 align="center">Hi 👋, I'm Shivesh Kumar</h1>
+<h3 align="center">Web Developer | Computer Engineering Student</h3>
 
-💻 Web Developer | 🎓 Computer Engineering Student  
-📍 National Institute of Advanced Manufacturing Technology (NIAMT), Hatia, Ranchi  
+<p align="center">
+  🎓 NIAMT, Hatia Ranchi • 💻 Full Stack Enthusiast • 🚀 Project Builder
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shivesh7856">
+    <img src="https://img.shields.io/badge/GitHub-Shivesh7856-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/shiveshkumar56">
+    <img src="https://img.shields.io/badge/LinkedIn-shiveshkumar56-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:Shiveshkumar822@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
@@ -10,83 +24,83 @@
 I am **Shivesh Kumar**, a **Computer Engineering student** at the  
 **National Institute of Advanced Manufacturing Technology (NIAMT), Hatia, Ranchi**.
 
-I am a passionate **Web Developer** focused on building responsive, scalable, and user-friendly web applications. I enjoy working with modern web technologies and turning ideas into clean, functional digital experiences.
-
-I am continuously enhancing my skills through hands-on projects and aim to grow as a **Full Stack Developer** while contributing to impactful software solutions.
+I am a passionate **Web Developer** focused on creating responsive, scalable, and user-friendly web applications. I enjoy building real-world projects and continuously sharpening my development and problem-solving skills.
 
 ---
 
 ## 🎯 Current Focus
 
-- 📚 **Data Structures & Algorithms (DSA)** – improving problem-solving skills  
-- 🌐 **Web Development** – building full-stack applications  
-- 🚀 **Project Development**
-  - **ChatRoomApp** – real-time chat application  
-  - **NoteSync** – smart note-taking & organization app  
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Web%20Development-Full%20Stack-green?style=for-the-badge">
+</p>
+
+- 📚 Strengthening **Data Structures & Algorithms**
+- 🌐 Building **Full Stack Web Applications**
+- 🚀 Working on projects:
+  - 💬 **ChatRoomApp** – Real-time chat application  
+  - 📝 **NoteSync** – Smart note-taking & organization app  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" />
 </p>
 
 ### 🧩 Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
 </p>
 
 ### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
 </p>
 
 ### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" />
 </p>
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
 ### 💬 ChatRoomApp
-- Real-time messaging application
-- Focus on performance and scalability
-- Modern UI with real-time communication features
+- Real-time messaging system  
+- Modern UI & scalable backend  
+- Focus on performance and user experience  
 
 ### 📝 NoteSync
-- Note-taking and organization web application
-- Clean UI with efficient data management
-- Designed for productivity and simplicity
-
-👉 *More projects coming soon…*
+- Note creation & organization platform  
+- Clean UI with efficient data handling  
+- Designed for productivity  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shivesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivesh7856&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivesh7856&show_icons=true&theme=default" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivesh7856&layout=compact)
-
----
-
-## 🤝 Connect With Me
-
-- 🐙 GitHub: https://github.com/Shivesh7856  
-- 💼 LinkedIn: https://linkedin.com/in/shiveshkumar56  
-- 📧 Email: Shiveshkumar822@gmail.com  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivesh7856&layout=compact" />
+</p>
 
 ---
 
-## ✨ Quote
+## ✨ Philosophy
 
-> "Consistency in learning today builds excellence tomorrow."
+<p align="center">
+  <i>"Build skills so strong that opportunities come looking for you."</i>
+</p>
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories!**
-
+<p align="center">
+⭐ If you like my work, consider starring my repositories!
+</p>
