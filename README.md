@@ -1,56 +1,55 @@
 # Hi, I'm Shivesh Kumar 👋
 
-💻 Web Developer | 🌐 Frontend & Backend Enthusiast  
-🚀 Passionate about building responsive, user-friendly, and modern web applications
+💻 Web Developer | 🎓 Computer Engineering Student  
+📍 National Institute of Advanced Manufacturing Technology (NIAMT), Hatia, Ranchi  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am **Shivesh Kumar**, a **Computer Engineering student** at the **National Institute of Advanced Manufacturing Technology (NIAMT), Hatia, Ranchi**.
+I am **Shivesh Kumar**, a **Computer Engineering student** at the  
+**National Institute of Advanced Manufacturing Technology (NIAMT), Hatia, Ranchi**.
 
-I am a dedicated **Web Developer** with a strong interest in building scalable, responsive, and user-centric web applications. I have hands-on experience with modern web technologies and enjoy transforming ideas into functional and visually appealing digital solutions.
+I am a passionate **Web Developer** focused on building responsive, scalable, and user-friendly web applications. I enjoy working with modern web technologies and turning ideas into clean, functional digital experiences.
 
-I am continuously improving my technical skills, working on real-world projects, and strengthening my problem-solving abilities. My goal is to grow as a full-stack developer and contribute effectively to innovative software development teams.
-
+I am continuously enhancing my skills through hands-on projects and aim to grow as a **Full Stack Developer** while contributing to impactful software solutions.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Tailwind CSS  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
 ### 🧩 Backend
-- Node.js  
-- Express.js  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄️ Databases
-- MongoDB  
-- SQL  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### 🧰 Tools
-- Git & GitHub  
-- VS Code  
-- Postman  
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 📂 Projects
 
-- **Responsive Web Applications**
-  - Clean UI, mobile-first design
+- 🌐 **Responsive Web Applications**  
+  Clean UI, mobile-first design, modern layouts
 
-- **React Projects**
-  - Component-based architecture
-  - State & props handling
+- ⚛️ **React Projects**  
+  Component-based architecture, reusable UI components
 
-- **Backend APIs**
-  - RESTful APIs using Node.js & Express
+- 🔗 **Backend APIs**  
+  RESTful APIs using Node.js & Express
 
 👉 *More projects coming soon…*
 
@@ -58,7 +57,7 @@ I am continuously improving my technical skills, working on real-world projects,
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivesh7856&show_icons=true)
+![Shivesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivesh7856&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivesh7856&layout=compact)
 
@@ -74,8 +73,8 @@ I am continuously improving my technical skills, working on real-world projects,
 
 ## ✨ Quote
 
-> "Build skills so strong that opportunities come looking for you."
+> "Write code that not only works, but inspires."
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories!**
+⭐ **If you like my work, consider starring my repositories!**
