@@ -7,11 +7,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student
-- 🌐 Focused on **Web Development (Frontend + Backend)**
-- 🧠 Strong fundamentals in programming & problem-solving
-- 🌱 Currently improving **React, Backend & Database skills**
-- 🎯 Goal: Become a skilled Full Stack Web Developer
+I am **Shivesh Kumar**, a **Computer Engineering student** at the **National Institute of Advanced Manufacturing Technology (NIAMT), Hatia, Ranchi**.
+
+I am a dedicated **Web Developer** with a strong interest in building scalable, responsive, and user-centric web applications. I have hands-on experience with modern web technologies and enjoy transforming ideas into functional and visually appealing digital solutions.
+
+I am continuously improving my technical skills, working on real-world projects, and strengthening my problem-solving abilities. My goal is to grow as a full-stack developer and contribute effectively to innovative software development teams.
+
 
 ---
 
