@@ -16,6 +16,16 @@ I am continuously enhancing my skills through hands-on projects and aim to grow 
 
 ---
 
+## 🎯 Current Focus
+
+- 📚 **Data Structures & Algorithms (DSA)** – improving problem-solving skills  
+- 🌐 **Web Development** – building full-stack applications  
+- 🚀 **Project Development**
+  - **ChatRoomApp** – real-time chat application  
+  - **NoteSync** – smart note-taking & organization app  
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
@@ -42,14 +52,15 @@ I am continuously enhancing my skills through hands-on projects and aim to grow 
 
 ## 📂 Projects
 
-- 🌐 **Responsive Web Applications**  
-  Clean UI, mobile-first design, modern layouts
+### 💬 ChatRoomApp
+- Real-time messaging application
+- Focus on performance and scalability
+- Modern UI with real-time communication features
 
-- ⚛️ **React Projects**  
-  Component-based architecture, reusable UI components
-
-- 🔗 **Backend APIs**  
-  RESTful APIs using Node.js & Express
+### 📝 NoteSync
+- Note-taking and organization web application
+- Clean UI with efficient data management
+- Designed for productivity and simplicity
 
 👉 *More projects coming soon…*
 
@@ -57,7 +68,7 @@ I am continuously enhancing my skills through hands-on projects and aim to grow 
 
 ## 📊 GitHub Stats
 
-![Shivesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivesh7856&show_icons=true&theme=default)
+![Shivesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivesh7856&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivesh7856&layout=compact)
 
@@ -73,8 +84,9 @@ I am continuously enhancing my skills through hands-on projects and aim to grow 
 
 ## ✨ Quote
 
-> "Write code that not only works, but inspires."
+> "Consistency in learning today builds excellence tomorrow."
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ **If you like my work, feel free to star my repositories!**
+
