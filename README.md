@@ -39,7 +39,7 @@ I am a passionate **Web Developer** focused on creating responsive, scalable, an
 - 🌐 Building **Full Stack Web Applications**
 - 🚀 Working on projects:
   - 💬 **ChatRoomApp** – Real-time chat application  
-  - 📝 **NoteSync** – Smart note-taking & organization app  
+  - 📝 **ScribeSpace** – Smart note-taking & organization app  
 
 ---
 
@@ -74,7 +74,7 @@ I am a passionate **Web Developer** focused on creating responsive, scalable, an
 - Modern UI & scalable backend  
 - Focus on performance and user experience  
 
-### 📝 NoteSync
+### 📝 ScribeSpace
 - Note creation & organization platform  
 - Clean UI with efficient data handling  
 - Designed for productivity  
